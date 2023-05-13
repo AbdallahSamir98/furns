@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "onsale": true,
+    "sale": 10,
+    "count": 10,
+    "image": "images/11.jpg",
+    "name": "Variable Product",
+    "price": 1000,
+    "category": "mobile",
+    "type": "chair",
+    "btn": "add to cart",
+
+    "desc": "It is a long-established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters Many",
+
+    "trend":true 
+
+  },
+  {
+    "id": 2,
+    "onsale": true,
+    "sale": 18,
+    "type": "home",
+    "desc": "It is a long-established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters Many",
+    "btn": "add to cart",
+
+    "feature":true,
+    "count": 10,
+    "name": "JOSEFA QUEEN SIZE BED WITH STORAGE IN NATURAL TEAK WOOD FINISH ",
+    "image": "images/12.jpg",
+
+    "price": 2000,
+    "category": "mobile",
+    "trend":true
+  },
+  {
+    "id": 3,
+    "onsale": false,
+    "type": "chair",
+    "desc": "It is a long-established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters Many",
+    "btn": "add to cart",
+
+    "count": 10,
+    "image": "images/22.jpg",
+    "name": "MINIMALIST MID-CENTURY MODERN STYLE BED",
+    "price": 469,
+    "category": "mobile"
+  },
+  {
+    "id": 4,
+    "onsale": true,
+    "sale": 13,
+    "type": "home",
+    "desc": "It is a long-established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters Many",
+    "btn": "add to cart",
+
+    "count": 10,
+    "image": "images/image13.jpg",
+    "name": "TWIST DINING TABLE",
+    "price": 1400,
+    "category": "tv"
+  },
+  {
+    "id": 5,
+    "onsale": true,
+    "sale": 13,
+    "type": "home",
+    "desc": "It is a long-established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters Many",
+    "btn": "add to cart",
+
+    "feature":true,
+    "count": 10,
+    "image": "images/image12.jpg",
+    "name": "ROUND DINING TABLE WITHOUT CHAIR",
+    "price": 800,
+    "category": "tv"
+  },
+  {
+    "id": 6,
+    "onsale": true,
+    "sale": 13,
+    "type": "hospitial",
+    "desc": "It is a long-established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters Many",
+    "btn": "add to cart",
+
+    "count": 10,
+    "image": "images/image5.jpg",
+    "name": "Hospital Reception Table",
+    "price": 700,
+    "category": "tv"
+  },
+  {
+    "id": 7,
+    "onsale": false,
+    "count": 10,
+    "image": "images/image16.jpg",
+    "name": "HIGH BACK LOUNGE OFFICE CHAIRS",
+    "type": "chair",
+    "desc": "It is a long-established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters Many",
+    "btn": "add to cart",
+
+    "price": 650,
+    "category": "tv"
+
+  },
+  {
+    "id": 8,
+    "onsale": false,
+    "count": 0,
+    "type": "home",
+    "desc": "It is a long-established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters Many",
+    "btn": "add to cart",
+
+    "image": "images/image17.jpg",
+    "name": "BEDROOM EXCLUSIVE MATTRESS",
+    "price": 1500,
+    "category": "tv",
+    "feature":true,
+    "trend":true
+  },
+  {
+    "id": 9,
+    "onsale": false,
+    "count": 0,
+    "feature":true,
+    "type": "hospitial",
+    "desc": "It is a long-established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters Many",
+    "btn": "add to cart",
+
+    "image": "images/5.jpg",
+    "name": "ROLLATOR WALKER LIGHTWEIGHT 4 WHEELS FOLDING",
+    "price": 1250,
+    "category": "tv"
+  },
+  {
+    "id": 10,
+    "onsale": true,
+    "count": 0,
+    "sale":24,
+    "image": "images/6.jpg",
+    "name": "DEVELOPER CHAIR",
+    "type": "chair",
+    "desc": "It is a long-established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters Many",
+    "btn": "add to cart",
+
+    "price": 1500,
+    "category": "tv",
+    "trend":true
+  },
+  {
+    "id": 11,
+    "onsale": false,
+    "count": 0,
+    "image": "images/42.jpg",
+    "name": "BEDROOM EXCLUSIVE MATTRESS",
+    "price": 850,
+    "type": "hospital",
+    "desc": "It is a long-established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters Many",
+    "btn": "add to cart",
+
+    "category": "tv"
+  },
+  {
+    "id": 12,
+    "onsale": true,
+      "sale":8,
+    "count": 0,
+    "image": "images/9.jpg",
+    "name": "SURGERY BED",
+    "type": "hospitial",
+    "desc": "It is a long-established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters Many",
+    "btn": "add to cart",
+
+    "price": 7500,
+    "category": "tv"
+  }
+]

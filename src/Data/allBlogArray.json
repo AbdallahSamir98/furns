@@ -1,0 +1,23 @@
+[
+    {
+      "id":1,
+      "image":"images/2.jpg",
+      "name":"TRACK ARM L-SECTIONAL",
+      "description":"Our living room corner sofa will be a great addition to your home, any room of your home. We have both modern and traditional designs available with a range of depths and sizes to suit any space."
+
+    },
+    {
+      "id":2,
+      "image":"images/1.jpg",
+      "name": "LUJO LIVING ROOM",
+      "description":"Lujo Living Room is a new line of premium quality furniture with mix between classic styles and modern style in sofas and chairs. We bring all this models for you from world wide to make your home furniture creative and unique."
+
+    },
+    {
+      "id":3,
+      "image":"images/32.jpg",
+      "name":"MENDAVIA RECTANGULAR DINING      ",
+      "description":"Mendavia Dining Room Set brings timeless elegance into any dining room. Expertly constructed of hardwood, the rectangular table features a stepped base. The table is available in your choice of finish and can be customized in length to suit your needs."
+
+    }
+]

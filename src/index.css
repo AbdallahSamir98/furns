@@ -1,0 +1,62 @@
+
+ 
+
+
+
+
+/* body {
+    height: 544444444444444px;
+} */
+
+.active-modall{
+    overflow-y: hidden;
+}
+.collectionImage
+{
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    transition: .2s all;
+    cursor: pointer;
+    
+}
+
+.collectionImage:hover {
+    border: 7px solid rgba(255,112,4);
+    background-color: rgb(241,241,241);
+    /* transform: scale(1.04); */
+    animation: swing; /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 1s; /* don't forget to set a duration! */
+}
+
+
+
+.card img{
+    height: 300px;
+}
+.card-text{
+
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2; /* number of lines to show */
+            line-clamp: 2; 
+    -webkit-box-orient: vertical;
+}
+
+.btn{
+    background-color: rgba(255,112,4);
+    border: none;
+    color: white;
+}
+.btn:hover{
+    background-color: black;
+    color: rgba(255,112,4);
+    transition: .5s all;
+}
+
+
+.tika:hover{
+    transform:  scale(.99);
+    transition: .7s all;    
+}

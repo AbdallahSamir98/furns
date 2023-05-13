@@ -1,0 +1,10 @@
+.textProductLeft{
+    position: absolute;
+    top: 35%;
+    right: 30px;
+}
+.textProductRight{
+    position: absolute;
+    top: 35%;
+    left: 30px;
+}

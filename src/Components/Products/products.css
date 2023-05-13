@@ -1,0 +1,57 @@
+
+/* Products  */
+.nav-tabs .nav-link  
+{
+    border: none;
+    color :black;
+}
+
+.nav-tabs {
+    --bs-nav-tabs-border-width: 0px;
+
+}
+
+.nav-tabs .nav-link.active{
+    color: rgba(255,112,4);
+}
+
+.imageCard{
+    overflow: hidden;
+
+}
+.ProButton{
+    position:absolute ;
+
+    transform: translateY(0%);
+    transition: .5s all;
+}
+
+.imageCard:hover .ProButton{
+    transform: translateY(-150%);
+
+}
+.imageCard:hover img{
+   transform:  scale(1.1);
+   transition: .7s all;
+  
+   
+}
+
+.card-title{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1; /* number of lines to show */
+            line-clamp: 1; 
+    -webkit-box-orient: vertical;
+}
+.saleBadge{
+    position: absolute;
+    top: 0;
+    left: 0 ;
+    
+    
+}
+.Linethrough{
+    text-decoration: line-through;
+}

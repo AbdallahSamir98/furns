@@ -1,0 +1,81 @@
+.badgeCart{
+    background-color: rgb(255,112,4);
+    position: absolute;
+    top: -8px;
+    right: -10px; 
+
+}
+.nav-link{
+    transition: 0.5s all;
+}
+.nav-link:hover{
+    color: rgb(255,112,4);
+}
+
+
+
+
+a{
+    text-decoration: none;
+
+}
+.btnSearch,.btnSearch:hover, .viewChart{
+    background-color: rgb(255,112,4);
+    color: white;
+    transition: .5s all;
+}
+.topSearch{
+color: black;
+text-decoration:underline;
+}
+.topSearch:hover{
+    color: rgb(255,112,4);
+}
+.x{
+    color: rgb(255,112,4);
+    font-size: 2rem;
+    cursor: pointer;
+}
+.x:hover{
+    color: red;
+}
+
+
+
+
+.overlay{
+    position: fixed;
+    z-index: 111558;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, .7);
+    display: block;
+    transition: 5s all;
+}
+
+
+.search{
+    /* display: none; */
+    background-color: aliceblue;
+    position: absolute;
+    width: 100%;
+    top: 0;
+    
+    z-index: 5888885885;
+   
+    
+    
+    
+
+}
+
+.dropdown-item:hover  {
+    color: rgb(255,112,4);
+}
+
+.viewChart:hover{
+    background-color: rgb(58,54,55);
+    color: white;
+}

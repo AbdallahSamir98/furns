@@ -1,0 +1,32 @@
+.cartposition{
+    color: rgb(255,112,4);
+    background: rgba(0, 0, 0, 0.916);
+    position: fixed;
+    top: 70%;
+    right: 0;
+    z-index: 88989;
+    cursor: pointer;
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; */
+    text-align: center;
+}
+.cart{
+    color: rgb(255,112,4);
+}
+
+.itemTitle{
+    font-weight:normal;
+    text-transform: capitalize;
+    font-family:sans-serif;
+    font-size: 15px;
+    
+}
+.fa-xmark{
+    cursor: pointer;
+}
+
+.cursor-pointer{
+    cursor: pointer;
+}
