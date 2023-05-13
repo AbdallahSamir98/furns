@@ -22,8 +22,7 @@
     "slick-carousel": "^1.8.1",
     "sweetalert2": "^11.7.3",
     "web-vitals": "^2.1.4",
-    "wowjs": "^1.1.3",
-    "homepage":    "https://abdallahsamir98.github.io/furns/"
+    "wowjs": "^1.1.3"
 
     
   },
@@ -33,7 +32,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "homepage": "https://abdallahsamir98.github.io/furns/"
+
   },
   "eslintConfig": {
     "extends": [
